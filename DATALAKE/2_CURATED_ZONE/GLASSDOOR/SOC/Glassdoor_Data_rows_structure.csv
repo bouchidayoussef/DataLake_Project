@@ -1,0 +1,701 @@
+ID;Field;Value
+1;CompanyName;Bayer
+1;Location;NULL
+1;Sector; Biotechnologies et pharmaceutique
+1;Website;NULL
+1;Foundation;NULL
+2;CompanyName;Atos-Syntel
+2;Location;NULL
+2;Sector; Services informatiques
+2;Website;NULL
+2;Foundation;NULL
+3;CompanyName;Plastic Omnium
+3;Location;NULL
+3;Sector; Fabrication d'équipement de transport
+3;Website;NULL
+3;Foundation;NULL
+4;CompanyName;Manpower
+4;Location;NULL
+4;Sector; Recrutement et sous-traitance
+4;Website;NULL
+4;Foundation;NULL
+5;CompanyName;Artefacts Studio
+5;Location;NULL
+5;Sector; Inconnu
+5;Website;NULL
+5;Foundation;NULL
+6;CompanyName;Thales-Raytheon Systems
+6;Location;NULL
+6;Sector; Gestion des transports
+6;Website;NULL
+6;Foundation;NULL
+7;CompanyName;Datadog
+7;Location;NULL
+7;Sector; Matériel et logiciels informatiques
+7;Website;NULL
+7;Foundation;NULL
+8;CompanyName;Smile Group
+8;Location;NULL
+8;Sector; Services informatiques
+8;Website;NULL
+8;Foundation;NULL
+9;CompanyName;Altran North America
+9;Location;NULL
+9;Sector; Services de télécommunications
+9;Website;NULL
+9;Foundation;NULL
+10;CompanyName;Merial
+10;Location;NULL
+10;Sector; Fabrication de produits grand public
+10;Website;NULL
+10;Foundation;NULL
+11;CompanyName;Expertime
+11;Location;NULL
+11;Sector; Services informatiques
+11;Website;NULL
+11;Foundation;NULL
+12;CompanyName;Groupe SII
+12;Location;NULL
+12;Sector; Services informatiques
+12;Website;NULL
+12;Foundation;NULL
+13;CompanyName;Sephora
+13;Location;NULL
+13;Sector; Salons de beauté et magasins d'accessoires
+13;Website;NULL
+13;Foundation;NULL
+14;CompanyName;STM
+14;Location;NULL
+14;Sector; Secteur ferroviaire
+14;Website;NULL
+14;Foundation;NULL
+15;CompanyName;Volvo Trucks
+15;Location;NULL
+15;Sector; Fabrication d'équipement de transport
+15;Website;NULL
+15;Foundation;NULL
+16;CompanyName;ibis
+16;Location;NULL
+16;Sector; Hôtels, motels et stations de tourisme
+16;Website;NULL
+16;Foundation;NULL
+17;CompanyName;Transdev
+17;Location;NULL
+17;Sector; Gestion des transports
+17;Website;NULL
+17;Foundation;NULL
+18;CompanyName;Volvo Construction Equipment
+18;Location;NULL
+18;Sector; Fabrication industrielle
+18;Website;NULL
+18;Foundation;NULL
+19;CompanyName;Abaka
+19;Location;NULL
+19;Sector; Conseils
+19;Website;NULL
+19;Foundation;NULL
+20;CompanyName;Altran Engineering Solution
+20;Location;NULL
+20;Sector; Fabrication industrielle
+20;Website;NULL
+20;Foundation;NULL
+21;CompanyName;Artefact
+21;Location;NULL
+21;Sector; Conseils
+21;Website;NULL
+21;Foundation;NULL
+22;CompanyName;Adsearch
+22;Location;NULL
+22;Sector; Inconnu
+22;Website;NULL
+22;Foundation;NULL
+23;CompanyName;Les Echos
+23;Location;NULL
+23;Sector; Édition
+23;Website;NULL
+23;Foundation;NULL
+24;CompanyName;Lacoste Traiteur
+24;Location;NULL
+24;Sector; Inconnu
+24;Website;NULL
+24;Foundation;NULL
+25;CompanyName;Open Sourcing
+25;Location;NULL
+25;Sector; Recrutement et sous-traitance
+25;Website;NULL
+25;Foundation;NULL
+26;CompanyName;Atos
+26;Location;NULL
+26;Sector; Services informatiques
+26;Website;NULL
+26;Foundation;NULL
+27;CompanyName;Softeam
+27;Location;NULL
+27;Sector; Matériel et logiciels informatiques
+27;Website;NULL
+27;Foundation;NULL
+28;CompanyName;CGIAR
+28;Location;NULL
+28;Sector; Assistance sociale
+28;Website;NULL
+28;Foundation;NULL
+29;CompanyName;Sanofi
+29;Location;NULL
+29;Sector; Biotechnologies et pharmaceutique
+29;Website;NULL
+29;Foundation;NULL
+30;CompanyName;Modis
+30;Location;NULL
+30;Sector; Recrutement et sous-traitance
+30;Website;NULL
+30;Foundation;NULL
+31;CompanyName;CACIB
+31;Location;NULL
+31;Sector; Investissements bancaires et gestion d'actifs
+31;Website;NULL
+31;Foundation;NULL
+32;CompanyName;Group Adaming
+32;Location;NULL
+32;Sector; Services informatiques
+32;Website;NULL
+32;Foundation;NULL
+33;CompanyName;Open
+33;Location;NULL
+33;Sector; Services d'architecture et d'ingénierie
+33;Website;NULL
+33;Foundation;NULL
+34;CompanyName;Phaidon International
+34;Location;NULL
+34;Sector; Recrutement et sous-traitance
+34;Website;NULL
+34;Foundation;NULL
+35;CompanyName;JEMS Group
+35;Location;NULL
+35;Sector; Services informatiques
+35;Website;NULL
+35;Foundation;NULL
+36;CompanyName;LA REDOUTE
+36;Location;NULL
+36;Sector; Inconnu
+36;Website;NULL
+36;Foundation;NULL
+37;CompanyName;GFI Group
+37;Location;NULL
+37;Sector; Services de courtage
+37;Website;NULL
+37;Foundation;NULL
+38;CompanyName;Lectra
+38;Location;NULL
+38;Sector; Matériel et logiciels informatiques
+38;Website;NULL
+38;Foundation;NULL
+39;CompanyName;Groupe Adéquat
+39;Location;NULL
+39;Sector; Recrutement et sous-traitance
+39;Website;NULL
+39;Foundation;NULL
+40;CompanyName;ALTRAN
+40;Location;NULL
+40;Sector; Inconnu
+40;Website;NULL
+40;Foundation;NULL
+41;CompanyName;Micropole
+41;Location;NULL
+41;Sector; Conseils
+41;Website;NULL
+41;Foundation;NULL
+42;CompanyName;Adsearch
+42;Location;NULL
+42;Sector; Inconnu
+42;Website;NULL
+42;Foundation;NULL
+43;CompanyName;Fortuneo SA
+43;Location;NULL
+43;Sector; Banques et organismes de crédit
+43;Website;NULL
+43;Foundation;NULL
+44;CompanyName;CNH Industrial
+44;Location;NULL
+44;Sector; Fabrication industrielle
+44;Website;NULL
+44;Foundation;NULL
+45;CompanyName;ACCEO Solutions
+45;Location;NULL
+45;Sector; Solutions logicielles et réseau d'entreprise
+45;Website;NULL
+45;Foundation;NULL
+46;CompanyName;Altran Telnet
+46;Location;NULL
+46;Sector; Inconnu
+46;Website;NULL
+46;Foundation;NULL
+47;CompanyName;Sii Poland
+47;Location;NULL
+47;Sector; Services informatiques
+47;Website;NULL
+47;Foundation;NULL
+48;CompanyName;Yongzhi Plastic Electronics (Shenzhen) Co.
+48;Location;NULL
+48;Sector; Fabrication industrielle
+48;Website;NULL
+48;Foundation;NULL
+49;CompanyName;Kendo
+49;Location;NULL
+49;Sector; Salons de beauté et magasins d'accessoires
+49;Website;NULL
+49;Foundation;NULL
+50;CompanyName;Veolia Water Tech
+50;Location;NULL
+50;Sector; Inconnu
+50;Website;NULL
+50;Foundation;NULL
+51;CompanyName;Loria
+51;Location;NULL
+51;Sector; Recherche et développement
+51;Website;NULL
+51;Foundation;NULL
+52;CompanyName;Astek Group
+52;Location;NULL
+52;Sector; Fabrication de produits de soins de santé
+52;Website;NULL
+52;Foundation;NULL
+53;CompanyName;Volvo Group
+53;Location;NULL
+53;Sector; Fabrication d'équipement de transport
+53;Website;NULL
+53;Foundation;NULL
+54;CompanyName;Montreal Associates
+54;Location;NULL
+54;Sector; Recrutement et sous-traitance
+54;Website;NULL
+54;Foundation;NULL
+55;CompanyName;GFI
+55;Location;NULL
+55;Sector; Jeux vidéo
+55;Website;NULL
+55;Foundation;NULL
+56;CompanyName;Capgemini
+56;Location;NULL
+56;Sector; Solutions logicielles et réseau d'entreprise
+56;Website;NULL
+56;Foundation;NULL
+57;CompanyName;Concordia University
+57;Location;NULL
+57;Sector; Enseignement supérieur et universités
+57;Website;NULL
+57;Foundation;NULL
+58;CompanyName;Crédit Agricole d'Ile de France
+58;Location;NULL
+58;Sector; Inconnu
+58;Website;NULL
+58;Foundation;NULL
+59;CompanyName;SeLoger
+59;Location;NULL
+59;Sector; Édition
+59;Website;NULL
+59;Foundation;NULL
+60;CompanyName;Polytechnique Montréal
+60;Location;NULL
+60;Sector; Enseignement supérieur et universités
+60;Website;NULL
+60;Foundation;NULL
+61;CompanyName;Thales
+61;Location;NULL
+61;Sector; Aérospatiale et Défense
+61;Website;NULL
+61;Foundation;NULL
+62;CompanyName;D2SI
+62;Location;NULL
+62;Sector; Conseils
+62;Website;NULL
+62;Foundation;NULL
+63;CompanyName;2S2I Solutions & Services
+63;Location;NULL
+63;Sector; Services informatiques
+63;Website;NULL
+63;Foundation;NULL
+64;CompanyName;Groupe Altice Média
+64;Location;NULL
+64;Sector; Inconnu
+64;Website;NULL
+64;Foundation;NULL
+65;CompanyName;2S2I Solutions & Services
+65;Location;NULL
+65;Sector; Services informatiques
+65;Website;NULL
+65;Foundation;NULL
+66;CompanyName;Atos
+66;Location;NULL
+66;Sector; Fabrication d'appareils électriques et électroniques
+66;Website;NULL
+66;Foundation;NULL
+67;CompanyName;Groupe Adéquat
+67;Location;NULL
+67;Sector; Recrutement et sous-traitance
+67;Website;NULL
+67;Foundation;NULL
+68;CompanyName;Sopra Steria
+68;Location;NULL
+68;Sector; Services informatiques
+68;Website;NULL
+68;Foundation;NULL
+69;CompanyName;Atos Consulting
+69;Location;NULL
+69;Sector; Inconnu
+69;Website;NULL
+69;Foundation;NULL
+70;CompanyName;Eidos Montreal
+70;Location;NULL
+70;Sector; Jeux vidéo
+70;Website;NULL
+70;Foundation;NULL
+71;CompanyName;Logware
+71;Location;NULL
+71;Sector; Conseils
+71;Website;NULL
+71;Foundation;NULL
+72;CompanyName;GFI Software
+72;Location;NULL
+72;Sector; Matériel et logiciels informatiques
+72;Website;NULL
+72;Foundation;NULL
+73;CompanyName;UK Ministry of Defence
+73;Location;NULL
+73;Sector; Organismes fédéraux
+73;Website;NULL
+73;Foundation;NULL
+74;CompanyName;cerema
+74;Location;NULL
+74;Sector; Inconnu
+74;Website;NULL
+74;Foundation;NULL
+75;CompanyName;CEGID
+75;Location;NULL
+75;Sector; Solutions logicielles et réseau d'entreprise
+75;Website;NULL
+75;Foundation;NULL
+76;CompanyName;Adthink-Media
+76;Location;NULL
+76;Sector; Inconnu
+76;Website;NULL
+76;Foundation;NULL
+77;CompanyName;CNH Industrial Capital
+77;Location;NULL
+77;Sector; Prêt
+77;Website;NULL
+77;Foundation;NULL
+78;CompanyName;Crédit Agricole d'Aquitaine
+78;Location;NULL
+78;Sector; Inconnu
+78;Website;NULL
+78;Foundation;NULL
+79;CompanyName;Mixt Composites Recyclables
+79;Location;NULL
+79;Sector; Inconnu
+79;Website;NULL
+79;Foundation;NULL
+80;CompanyName;OpenText
+80;Location;NULL
+80;Sector; Solutions logicielles et réseau d'entreprise
+80;Website;NULL
+80;Foundation;NULL
+81;CompanyName;Gfi Informatique
+81;Location;NULL
+81;Sector; Services informatiques
+81;Website;NULL
+81;Foundation;NULL
+82;CompanyName;Artefact Group
+82;Location;NULL
+82;Sector; Conseils
+82;Website;NULL
+82;Foundation;NULL
+83;CompanyName;Devoteam
+83;Location;NULL
+83;Sector; Services informatiques
+83;Website;NULL
+83;Foundation;NULL
+84;CompanyName;GFI Software
+84;Location;NULL
+84;Sector; Matériel et logiciels informatiques
+84;Website;NULL
+84;Foundation;NULL
+85;CompanyName;Volvo Cars
+85;Location;NULL
+85;Sector; Fabrication industrielle
+85;Website;NULL
+85;Foundation;NULL
+86;CompanyName;Feu Vert
+86;Location;NULL
+86;Sector; Magasins de pièces automobiles et accessoires
+86;Website;NULL
+86;Foundation;NULL
+87;CompanyName;Statkraft AS
+87;Location;NULL
+87;Sector; Services publics de distribution
+87;Website;NULL
+87;Foundation;NULL
+88;CompanyName;OTV
+88;Location;NULL
+88;Sector; Services publics de distribution
+88;Website;NULL
+88;Foundation;NULL
+89;CompanyName;SolidWorks
+89;Location;NULL
+89;Sector; Matériel et logiciels informatiques
+89;Website;NULL
+89;Foundation;NULL
+90;CompanyName;Teads
+90;Location;NULL
+90;Sector; Publicité et marketing
+90;Website;NULL
+90;Foundation;NULL
+91;CompanyName;Cegedim
+91;Location;NULL
+91;Sector; Matériel et logiciels informatiques
+91;Website;NULL
+91;Foundation;NULL
+92;CompanyName;Accor
+92;Location;NULL
+92;Sector; Hôtels, motels et stations de tourisme
+92;Website;NULL
+92;Foundation;NULL
+93;CompanyName;Morgan Philips Executive Search
+93;Location;NULL
+93;Sector; Recrutement et sous-traitance
+93;Website;NULL
+93;Foundation;NULL
+94;CompanyName;L&T Thales Technology Services
+94;Location;NULL
+94;Sector; Inconnu
+94;Website;NULL
+94;Foundation;NULL
+95;CompanyName;Lacoste
+95;Location;NULL
+95;Sector; Magasins de chaussures, de vêtements et grands magasins
+95;Website;NULL
+95;Foundation;NULL
+96;CompanyName;CALIDA Group
+96;Location;NULL
+96;Sector; Inconnu
+96;Website;NULL
+96;Foundation;NULL
+97;CompanyName;LVMH
+97;Location;NULL
+97;Sector; Autres magasins de détail
+97;Website;NULL
+97;Foundation;NULL
+98;CompanyName;Capgemini Invent
+98;Location;NULL
+98;Sector; Conseils
+98;Website;NULL
+98;Foundation;NULL
+99;CompanyName;alptis assurances
+99;Location;NULL
+99;Sector; Inconnu
+99;Website;NULL
+99;Foundation;NULL
+100;CompanyName;Gfi Informatique
+100;Location;NULL
+100;Sector; Services informatiques
+100;Website;NULL
+100;Foundation;NULL
+101;CompanyName;Crédit Agricole
+101;Location;NULL
+101;Sector; Inconnu
+101;Website;NULL
+101;Foundation;NULL
+102;CompanyName;Altran Group
+102;Location;NULL
+102;Sector; Services informatiques
+102;Website;NULL
+102;Foundation;NULL
+103;CompanyName;NVIDIA
+103;Location;NULL
+103;Sector; Matériel et logiciels informatiques
+103;Website;NULL
+103;Foundation;NULL
+104;CompanyName;Groupe NICOLLIN - Groupe VEOLIA
+104;Location;NULL
+104;Sector; Inconnu
+104;Website;NULL
+104;Foundation;NULL
+105;CompanyName;Groupe Crédit Agricole
+105;Location;NULL
+105;Sector; Investissements bancaires et gestion d'actifs
+105;Website;NULL
+105;Foundation;NULL
+106;CompanyName;Sanofi Pasteur
+106;Location;NULL
+106;Sector; Inconnu
+106;Website;NULL
+106;Foundation;NULL
+107;CompanyName;Astek
+107;Location;NULL
+107;Sector; Services informatiques
+107;Website;NULL
+107;Foundation;NULL
+108;CompanyName;Groupe Creative
+108;Location;NULL
+108;Sector; Services d'architecture et d'ingénierie
+108;Website;NULL
+108;Foundation;NULL
+109;CompanyName;Open Minds Open Hearts Day Care
+109;Location;NULL
+109;Sector; Inconnu
+109;Website;NULL
+109;Foundation;NULL
+110;CompanyName;SOTRAVO Filiale SOLOCAL GROUP
+110;Location;NULL
+110;Sector; Inconnu
+110;Website;NULL
+110;Foundation;NULL
+111;CompanyName;SKF
+111;Location;NULL
+111;Sector; Fabrication industrielle
+111;Website;NULL
+111;Foundation;NULL
+112;CompanyName;Volvo Information Technology
+112;Location;NULL
+112;Sector; Services informatiques
+112;Website;NULL
+112;Foundation;NULL
+113;CompanyName;Paris Inn Group
+113;Location;NULL
+113;Sector; Inconnu
+113;Website;NULL
+113;Foundation;NULL
+114;CompanyName;Veolia
+114;Location;NULL
+114;Sector; Services publics de distribution
+114;Website;NULL
+114;Foundation;NULL
+115;CompanyName;ITS Overlap
+115;Location;NULL
+115;Sector; Production animale
+115;Website;NULL
+115;Foundation;NULL
+116;CompanyName;GFI
+116;Location;NULL
+116;Sector; Jeux vidéo
+116;Website;NULL
+116;Foundation;NULL
+117;CompanyName;CELINE
+117;Location;NULL
+117;Sector; Magasins de chaussures, de vêtements et grands magasins
+117;Website;NULL
+117;Foundation;NULL
+118;CompanyName;Groupe Crédit Agricole du Maroc
+118;Location;NULL
+118;Sector; Banques et organismes de crédit
+118;Website;NULL
+118;Foundation;NULL
+119;CompanyName;Multimedia France Productions
+119;Location;NULL
+119;Sector; Inconnu
+119;Website;NULL
+119;Foundation;NULL
+120;CompanyName;GFI Group
+120;Location;NULL
+120;Sector; Services de courtage
+120;Website;NULL
+120;Foundation;NULL
+121;CompanyName;CITECH
+121;Location;NULL
+121;Sector; Services informatiques
+121;Website;NULL
+121;Foundation;NULL
+122;CompanyName;LVMH
+122;Location;NULL
+122;Sector; Autres magasins de détail
+122;Website;NULL
+122;Foundation;NULL
+123;CompanyName;Morgan Philips Group
+123;Location;NULL
+123;Sector; Inconnu
+123;Website;NULL
+123;Foundation;NULL
+124;CompanyName;ITS
+124;Location;NULL
+124;Sector; Biotechnologies et pharmaceutique
+124;Website;NULL
+124;Foundation;NULL
+125;CompanyName;CRIM (Computer Research Institute of Montreal)
+125;Location;NULL
+125;Sector; Recherche et développement
+125;Website;NULL
+125;Foundation;NULL
+126;CompanyName;ALTRAD Group
+126;Location;NULL
+126;Sector; Inconnu
+126;Website;NULL
+126;Foundation;NULL
+127;CompanyName;ACCEO Solutions
+127;Location;NULL
+127;Sector; Solutions logicielles et réseau d'entreprise
+127;Website;NULL
+127;Foundation;NULL
+128;CompanyName;ITS Group
+128;Location;NULL
+128;Sector; Services informatiques
+128;Website;NULL
+128;Foundation;NULL
+129;CompanyName;BMO Financial Group
+129;Location;NULL
+129;Sector; Banques et organismes de crédit
+129;Website;NULL
+129;Foundation;NULL
+130;CompanyName;Atos Medical
+130;Location;NULL
+130;Sector; Fabrication de produits de soins de santé
+130;Website;NULL
+130;Foundation;NULL
+131;CompanyName;Robert Half
+131;Location;NULL
+131;Sector; Recrutement et sous-traitance
+131;Website;NULL
+131;Foundation;NULL
+132;CompanyName;Sparklane
+132;Location;NULL
+132;Sector; Solutions logicielles et réseau d'entreprise
+132;Website;NULL
+132;Foundation;NULL
+133;CompanyName;University of Montreal
+133;Location;NULL
+133;Sector; Enseignement supérieur et universités
+133;Website;NULL
+133;Foundation;NULL
+134;CompanyName;Sopra Steria Recruitment
+134;Location;NULL
+134;Sector; Recrutement et sous-traitance
+134;Website;NULL
+134;Foundation;NULL
+135;CompanyName;Dassault Systemes
+135;Location;NULL
+135;Sector; Matériel et logiciels informatiques
+135;Website;NULL
+135;Foundation;NULL
+136;CompanyName;La Redoute
+136;Location;NULL
+136;Sector; Autres magasins de détail
+136;Website;NULL
+136;Foundation;NULL
+137;CompanyName;Keyrus Group
+137;Location;NULL
+137;Sector; Services informatiques
+137;Website;NULL
+137;Foundation;NULL
+138;CompanyName;SoLocal Group
+138;Location;NULL
+138;Sector; Services de télécommunications
+138;Website;NULL
+138;Foundation;NULL
+139;CompanyName;Openfield Live
+139;Location;NULL
+139;Sector; Inconnu
+139;Website;NULL
+139;Foundation;NULL
+140;CompanyName;Canon ITS
+140;Location;NULL
+140;Sector; Comptabilité
+140;Website;NULL
+140;Foundation;NULL
